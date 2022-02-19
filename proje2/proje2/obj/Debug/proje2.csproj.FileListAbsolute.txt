@@ -1,0 +1,6 @@
+/Users/demetsahinyenigul/Projects/proje2/proje2/bin/Debug/proje2.exe
+/Users/demetsahinyenigul/Projects/proje2/proje2/bin/Debug/proje2.pdb
+/Users/demetsahinyenigul/Projects/proje2/proje2/obj/Debug/proje2.csprojAssemblyReference.cache
+/Users/demetsahinyenigul/Projects/proje2/proje2/obj/Debug/proje2.csproj.CoreCompileInputs.cache
+/Users/demetsahinyenigul/Projects/proje2/proje2/obj/Debug/proje2.exe
+/Users/demetsahinyenigul/Projects/proje2/proje2/obj/Debug/proje2.pdb
